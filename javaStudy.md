@@ -1,6 +1,10 @@
 学习文档
-富大沙发
-阿水淀粉阿水淀粉阿
 
 # Java
-## java2
+## 1、封装、继承、多态
+封装：private/public
+
+继承：class A extends B
+
+
+
